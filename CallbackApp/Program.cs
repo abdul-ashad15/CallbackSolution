@@ -17,6 +17,7 @@ namespace CallbackApp
         static void Print(int i)
         {
             Console.WriteLine(i);
+            Console.ReadLine();
         }
     }
 
