@@ -23,6 +23,7 @@ namespace CallbackApp
     public class MyClass
     {
         public delegate void Callback(int i);
+        int counter;
 
         public void LongRunning(Callback obj)
         {
