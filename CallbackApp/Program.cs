@@ -31,5 +31,10 @@ namespace CallbackApp
                 obj(i);
             }
         }
+
+        public void Method1()
+        {
+
+        }
     }
 }
