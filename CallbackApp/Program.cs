@@ -34,7 +34,7 @@ namespace CallbackApp
 
         public void Method1()
         {
-
+            Console.WriteLine("Test Method");
         }
     }
 }
